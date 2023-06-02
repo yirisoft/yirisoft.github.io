@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <head>
-    <script>
-        let test = prompt("Test", "Test");
-    </script>
-
-    <script>
-        const Http = new XMLHttpRequest();
-        const url = 'http://worldtimeapi.org/api/timezone/Asia/Manila'
-
-        Http.open("GET", url);
-        Http.send();
-
-        Http.onreadystatechange = (e) => {
-            document.getElementById("datetime").appendChild(document.createTextNode(JSON.parse(Http.responseText).datetime))
-        }
-    </script>
 </head>
 
 <body>
     <h1>TEST</h1>
-    <br>
-    <div id="datetime"></div>
 </body>
