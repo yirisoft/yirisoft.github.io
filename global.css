@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inherit: inherit;
+
+  /* Colors */
+  --color-gray: rgba(0, 0, 0, 0.4);
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+}
