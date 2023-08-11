@@ -1,0 +1,96 @@
+.intern {
+  margin: 0;
+}
+.text6 {
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+}
+.iconsoutlinearrow-drop-right4 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.text-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.statuscollapsed2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: var(--color-gray-100);
+  width: 727px;
+  height: 82px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.text-txt2 {
+  line-break: anywhere;
+  width: 100%;
+}
+.text-parent2,
+.text7 {
+  display: flex;
+  align-items: center;
+}
+.text7 {
+  position: relative;
+  white-space: pre-wrap;
+  width: 614px;
+  flex-shrink: 0;
+}
+.text-parent2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.introduced-to-unity-engine {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.used-unity-engine-and-c-to-co {
+  margin-bottom: 0;
+}
+.text8 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-inherit);
+}
+.statusuncollapsed2 {
+  position: absolute;
+  top: 193px;
+  left: 20px;
+  background-color: var(--color-gray-100);
+  width: 727px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.work-experiences-internship {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
