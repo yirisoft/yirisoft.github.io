@@ -1,10 +1,36 @@
+.homepage-child {
+  position: absolute;
+  height: 77.15%;
+  width: 80.39%;
+  top: 8.69%;
+  right: 9.83%;
+  bottom: 14.16%;
+  left: 9.77%;
+  border-radius: 41px;
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(100px);
+  border: 7px solid var(--color-white);
+  box-sizing: border-box;
+}
+.portfolio-is-currently,
 .wip-cat-1 {
   position: absolute;
-  top: 326px;
-  left: calc(50% - 238px);
-  width: 475px;
-  height: 457px;
+  top: 0;
+  left: calc(50% - 337.5px);
+}
+.wip-cat-1 {
+  top: 116px;
+  left: calc(50% - 141.5px);
+  width: 283px;
+  height: 272px;
   object-fit: cover;
+}
+.portfolio-is-currently-wip-parent {
+  position: absolute;
+  top: 318px;
+  left: calc(50% - 338px);
+  width: 675px;
+  height: 388px;
 }
 .homepage {
   position: relative;
@@ -15,4 +41,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  text-align: left;
+  font-size: 60px;
+  color: #000;
+  font-family: var(--font-lilita-one);
 }

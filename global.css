@@ -5,6 +5,7 @@ body {
 
 :root {
   /* fonts */
+  --font-lilita-one: "Lilita One";
   --font-inter: Inter;
   --font-inherit: inherit;
 
@@ -14,10 +15,10 @@ body {
   --font-size-5xl: 24px;
 
   /* Colors */
-  --color-white: #fff;
-  --color-blueviolet: #9747ff;
   --color-gray: rgba(0, 0, 0, 0.4);
   --color-gray-100: rgba(0, 0, 0, 0.8);
+  --color-white: #fff;
+  --color-blueviolet: #9747ff;
 
   /* Gaps */
   --gap-base: 16px;
