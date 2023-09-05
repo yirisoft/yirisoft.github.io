@@ -10,13 +10,16 @@ body {
   --font-inherit: inherit;
 
   /* font sizes */
+  --font-size-41xl: 60px;
   --font-size-xl: 20px;
   --font-size-13xl: 32px;
   --font-size-5xl: 24px;
 
   /* Colors */
+  --color-gray-200: #fefefe;
   --color-gray: rgba(0, 0, 0, 0.4);
   --color-gray-100: rgba(0, 0, 0, 0.8);
+  --color-gray-300: rgba(255, 255, 255, 0.3);
   --color-white: #fff;
   --color-blueviolet: #9747ff;
 
@@ -33,6 +36,7 @@ body {
   --padding-121xl: 140px;
 
   /* Border radiuses */
+  --br-22xl: 41px;
   --br-8xs: 5px;
   --br-126xl-5: 145.5px;
 }
