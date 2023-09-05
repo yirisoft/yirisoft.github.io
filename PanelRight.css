@@ -1,0 +1,64 @@
+.mid-2d-artist2 {
+  margin: 0;
+}
+.text25 {
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+}
+.iconsoutlinearrow-drop-right10 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.text-parent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.work-experiences-taktyl-stud1 {
+  background-color: var(--color-gray-100);
+  width: 727px;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-13xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.panel-right,
+.section,
+.work-experiences-taktyl-stud1,
+.work-experiences-yangyangmob1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.work-experiences-yangyangmob1 {
+  background-color: var(--color-gray-100);
+  width: 727px;
+  height: 82px;
+  padding: var(--padding-base) var(--padding-base) var(--padding-base)
+    var(--padding-13xl);
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+.panel-right,
+.section {
+  justify-content: flex-start;
+}
+.section {
+  gap: var(--gap-5xs);
+}
+.panel-right {
+  position: relative;
+  width: 100%;
+  overflow-y: auto;
+  padding: 0 0 var(--padding-121xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,44 @@
+.game-developer-2d-artist {
+  margin: 0;
+}
+.block-z-heads1 {
+  text-decoration: underline;
+}
+.block-z-heads-up3 {
+  color: inherit;
+}
+.transitioned-into-a {
+  font-family: var(--font-inter);
+}
+.transitioned-into-a-game-artis {
+  margin-bottom: 0;
+}
+.pitching-game-ideas-to-propose {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.text30 {
+  position: relative;
+  white-space: pre-wrap;
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 246;
+  -webkit-box-orient: vertical;
+  width: 663px;
+}
+.abs-cbn-internship {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--font-inherit);
+  font-family: var(--font-inter);
+}

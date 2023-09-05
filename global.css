@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lilita-one: "Lilita One";
+  --font-inter: Inter;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-gray: rgba(0, 0, 0, 0.4);
+  --color-gray-100: rgba(0, 0, 0, 0.8);
+  --color-white: #fff;
+  --color-blueviolet: #9747ff;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-13xl: 32px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+  --padding-8xl: 27px;
+  --padding-121xl: 140px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-126xl-5: 145.5px;
+}

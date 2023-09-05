@@ -1,0 +1,77 @@
+.logo-icon {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.name-and-logo,
+.text31 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text31 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.name-and-logo {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 363.5px);
+  background-color: var(--color-gray);
+  width: 727px;
+  height: 198px;
+  flex-direction: row;
+  padding: var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+}
+.work-experience1 {
+  margin: 0;
+}
+.dito-1 {
+  margin-bottom: 0;
+}
+.dito-1-dito-2-dito-3 {
+  margin: 0;
+  padding-left: 43px;
+}
+.text32 {
+  flex: 1;
+  position: relative;
+}
+.work-experience {
+  position: absolute;
+  top: 239px;
+  left: calc(50% - 363.5px);
+  background-color: var(--color-gray);
+  width: 727px;
+  height: 198px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.panel-left1 {
+  position: absolute;
+  top: 49px;
+  left: 51px;
+  width: 727px;
+  height: 437px;
+}
+.homepage1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 40px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

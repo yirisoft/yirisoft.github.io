@@ -1,0 +1,95 @@
+.photo-icon1 {
+  position: relative;
+  border-radius: var(--br-126xl-5);
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.monica-mae-d1 {
+  margin: 0;
+}
+.game-uxui-artist1 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.text20 {
+  position: relative;
+}
+.name-container1 {
+  background-color: var(--color-gray-100);
+  width: 700px;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-13xl);
+}
+.header1,
+.name-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gmail-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text22 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+}
+.g-mail2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.iconsfillphone1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.text23 {
+  position: relative;
+  font-weight: 500;
+}
+.g-mail-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--font-size-xl);
+}
+.contact-me1 {
+  background-color: var(--color-gray-100);
+  width: 700px;
+  padding: var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.contact-container1,
+.contact-me1,
+.panel-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.panel-left {
+  position: relative;
+  width: 100%;
+  overflow-y: auto;
+  padding: 0 0 var(--padding-121xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
